@@ -23,8 +23,7 @@ This project is my first **Java-based Ticket Booking System**, designed to stren
 
 ### **Step 1:** Clone the Repository  
 ```sh
-git clone https://github.com/ParasSharma101/ticketbookingsystem
-cd TicketBookingSystem
+git clone [https://github.com/thecoder-16/Ticket-Booking-System.git]
 ```
 
 ### **Step 2:** Build the Project  
